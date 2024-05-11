@@ -5,4 +5,4 @@ This repository contains a Python-based toolkit designed to perform detailed dat
 # Technologies Used
 Python: The primary programming language used for developing the data analysis models.
 Pandas & NumPy: For efficient data manipulation and numerical computations.
-Matplotlib : For generating visualizations that help in interpreting the data.
+
